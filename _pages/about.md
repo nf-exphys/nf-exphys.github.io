@@ -5,7 +5,7 @@ permalink: /
 subtitle: Exercise Physiology PhD Student at George Washington University
 
 profile:
-  align: top
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
 
