@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /coaching/
-title: teaching
+title: Coaching
 description: An oerview of my coaching services through Ex Phys Coaching
 nav: true
 nav_order: 5
