@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
-subtitle: <strong>Exercise Physiology PhD Student </strong> at <a href="https://www.gwu.edu/">George Washington University</a>
+subtitle: <strong>Exercise Physiology PhD Student </strong> at George Washington University
 
 profile:
   align: right
@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Welcome! I’m Nick Foreman, a PhD student in the [Milken Institute School of Public Health](https://publichealth.gwu.edu/departments/exercise-and-nutrition-sciences) at George Washington University in Washington, DC. My research interests center around understanding how exercise can mitigate or prevent chronic diseases. Current studies include research on exercise interventions for cholesterol and glucose metabolism.
+Welcome! I’m Nick Foreman, a PhD student in the [Milken Institute School of Public Health](https://publichealth.gwu.edu/departments/exercise-and-nutrition-sciences) at [George Washington University](https://www.gwu.edu) in Washington, DC. My research interests center around understanding how exercise can mitigate or prevent chronic diseases. Current studies include research on exercise interventions for cholesterol and glucose metabolism.
 
 Prior to moving to DC, I spent most of my life in Minnesota. I have a Masters degree in Kinesiology from the University of Minnesota Twin Cities. There, my research focused on endurance performance and exercise testing. My thesis examined the effect of exercise domains on heart rate variability (HRV) and endurance performance.
 
