@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
 subtitle: <strong>Exercise Physiology PhD Student </strong> at <a href="https://www.gwu.edu/">George Washington University</a>
 
