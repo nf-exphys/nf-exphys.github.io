@@ -2,20 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: Exercise Physiology PhD Student at George Washington University
+subtitle: Exercise Physiology PhD Student at [George Washington University](www.gwu.edu)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 
-Welcome! I’m __Nick__ Foreman, a PhD student at George Washington University in Washington, DC. My research interests center around understanding how exercise can mitigate or prevent chronic diseases. Current studies include research on exercise interventions for cholesterol and glucose metabolism.
+Welcome! I’m Nick Foreman, a PhD student at George Washington University in Washington, DC. My research interests center around understanding how exercise can mitigate or prevent chronic diseases. Current studies include research on exercise interventions for cholesterol and glucose metabolism.
 
 Prior to moving to DC, I spent most of my life in Minnesota. I have a Masters degree in Kinesiology from the University of Minnesota Twin Cities. There, my research focused on endurance performance and exercise testing. My thesis examined the effect of exercise domains on heart rate variability (HRV) and endurance performance.
 
