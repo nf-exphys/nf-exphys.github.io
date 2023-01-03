@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Exercise Physiology PhD Student at George Washington University
+subtitle: Exercise Physiology PhD Student at <a href="https://www.gwu.edu/">George Washington University</a>
 
 profile:
   align: right
