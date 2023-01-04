@@ -2,6 +2,8 @@
   - firstname: ["Anton", "Anton S"]
     url: https://scholar.google.com/citations?user=W4eqWFoAAAAJ&hl=en&oi=sra
 
+#name in field needs to match the formatting in the papers.bib file
+
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
