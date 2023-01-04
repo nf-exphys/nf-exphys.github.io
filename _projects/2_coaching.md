@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Consults & Free Intro Meeting
-description: Learn more about single meetings, including a free intro meeting.
+title: One-off consult
+description: Learn more about my one-off consults for smaller issues or advice.
 img: assets/img/3.jpg
 importance: 2
 category: coaching
