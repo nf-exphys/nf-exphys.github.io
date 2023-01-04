@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Coaching
-permalink: /projects/
-description: A growing collection of your cool projects.
+permalink: /coaching/
+description: Services offered through Ex Phys Coaching
 nav: true
 nav_order: 5
 display_categories: [coaching]
