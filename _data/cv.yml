@@ -1,14 +1,10 @@
-- title: General Information
+- title: Overview
   type: map
   contents:
-    - name: Full Name
-      value: Nicholas A. Foreman
+    - name: Current position
+      value: PhD student at George Washington University
+    - name: Previous education
+      value: Kinesiology MS from the University of Minnesota
 
-- title: Education
-  type: time_table
-  contents:
-    - title: MS
-      institution: University of Minnesota, Minneapolis, Minnesota
-      year: 2022
-      description:
-        - Kinesiology with an emphasis in Exercise Physiology
+      
+
