@@ -21,7 +21,7 @@ Prior to moving to DC, I spent most of my life in Minnesota. I have a Masters de
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/thesis_photo.heic" title="thesis photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/thesis_photo.jpg" title="thesis photo" class="img-fluid rounded z-depth-1" %}
  </div>
 </div>
 
