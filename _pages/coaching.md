@@ -2,7 +2,7 @@
 layout: page
 title: Coaching
 permalink: /coaching/
-description: Services offered through Ex Phys Coaching
+description: I offer both one-off coaching consults as well as ongoing coaching services. Most of my experience is with runners, but I'm open to working with any number of endurance sports, including triathlon and obstacle course racing. 
 nav: true
 nav_order: 5
 display_categories: [coaching]
