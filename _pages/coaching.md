@@ -1,21 +1,58 @@
 ---
 layout: page
-permalink: /coaching/
-title: Coaching
-description: An overview of my coaching services through Ex Phys Coaching
+title: Projects
+permalink: /projects/
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 5
+display_categories: [work, fun]
+horizontal: true
 ---
 
-#### Services
+<!-- pages/coaching.md -->
+<div class="projects">
+{%- if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {%- for category in page.display_categories %}
+  <h2 class="category">{{ category }}</h2>
+  {%- assign categorized_projects = site.projects | where: "category", category -%}
+  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+  {% endfor %}
 
-##### Consults
-
-* Intro meeting (30 min)​​
-	* Free​
-	* Your chance to meet me, ask any questions, and make sure this is a good fit for you
-* Training Consult​ (30 - 60 min)
-	* One-off meeting to have me review your training plan, ask questions about training, etc.
-	* Pricing
-		* $30 for 30 min​
-		* $50 for 60 min
+{%- else -%}
+<!-- Display projects without categories -->
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+{%- endif -%}
+</div>
