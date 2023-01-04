@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Coaching Services
-description: Learn more about my ongoing, monthly coaching services
-img: assets/img/12.jpg
-importance: 1
+title: Consults & Free Intro Meeting
+description: Learn more about single meetings, including a free intro meeting.
+img: assets/img/3.jpg
+importance: 2
 category: coaching
 ---
 
