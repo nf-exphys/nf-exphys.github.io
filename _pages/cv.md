@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 4
+nav_order: 7
 cv_pdf: cv_foreman.pdf
 ---
