@@ -15,15 +15,21 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Welcome! I’m Nick Foreman, a PhD student in the [Milken Institute School of Public Health](https://publichealth.gwu.edu/departments/exercise-and-nutrition-sciences) at [George Washington University](https://www.gwu.edu) in Washington, DC. My research interests center around understanding how exercise can mitigate or prevent chronic diseases. Current studies include research on exercise interventions for cholesterol and glucose metabolism.
+Welcome! I’m Nick Foreman, a PhD student at [George Washington University](https://www.gwu.edu) in Washington, DC. My research interests center around understanding how exercise can mitigate or prevent chronic diseases. Current studies include research on exercise interventions for cholesterol and glucose metabolism.
 
 Prior to moving to DC, I spent most of my life in Minnesota. I have a Masters degree in Kinesiology from the University of Minnesota Twin Cities. There, my research focused on endurance performance and exercise testing. My thesis examined the effect of exercise domains on heart rate variability (HRV) and endurance performance.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/thesis_photo.heic" title="thesis photo" class="img-fluid rounded z-depth-1" %}
+ </div>
+</div>
 
 Outside of academia, I love to run! I train with the NOVA running club in Northern Virginia, focusing mostly on 5K/10K races. I also offer coaching and consulting services through my business, [Ex Phys Coaching](coaching/). I live in Washington, DC with my partner Emily and our two gray cats.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/thesis_photo.heic" title="thesis photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
