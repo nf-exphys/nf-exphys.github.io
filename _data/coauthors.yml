@@ -4,10 +4,16 @@
 
 #name in field needs to match the formatting in the papers.bib file
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Lundstrom":
+  - firstname: ["Christopher J", "Christopher"]
+    url: https://www.cehd.umn.edu/kin/people/lund0982/
+    
+"Lee":
+  - firstname: ["Emma J", "Emma"]
+    url: https://www.researchgate.net/profile/Emma-Lee-45
+    
+"Ji":
+  - firstname: ["Li Li"]
+    url: https://www.cehd.umn.edu/kin/people/llji/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
