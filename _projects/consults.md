@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Coaching Services
-description: Learn more about my ongoing, monthly coaching services
-img: assets/img/12.jpg
-importance: 1
+title: One-off consult
+description: Learn more about my one-off consults for smaller issues or advice.
+img: assets/img/3.jpg
+importance: 2
 category: coaching
 ---
 
