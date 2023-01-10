@@ -210,7 +210,6 @@ plugins:
   - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-analytics
 
 # Sitemap settings
 defaults:
@@ -218,13 +217,6 @@ defaults:
       path: "assets/**/*.*"
     values:
       sitemap: false
-      
-#Configure jekyll analytics
-jekyll_analytics:
-  GoogleAnalytics:          
-    id: G-2WS76FBF9V          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -334,7 +326,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true  # enables google analytics
+enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification

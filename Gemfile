@@ -18,7 +18,6 @@ group :jekyll_plugins do
     gem 'ruby-racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'jekyll-analytics'
 end
 group :other_plugins do
     gem 'httparty'
