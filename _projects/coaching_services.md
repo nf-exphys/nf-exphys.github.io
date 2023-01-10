@@ -21,7 +21,6 @@ Have a burning question or looking for advice on smaller issue? I also offer one
 	* Training plan delivered via Google Sheets for simple collaboration
 	* Virtual meetings via Zoom every two weeks to refine training
 	* Email questions as needed
-* Up to 50% off for plans spanning 3+ months
 
 ## Advanced Plan ($125/month)
 
@@ -43,12 +42,16 @@ Have a burning question or looking for advice on smaller issue? I also offer one
 
 ## Discounts
 
-* Purchase two months for a 20% discount or 3+ months for 
+* Purchase multiple months at a time:
+	* Two months for 20% off
+	* 3+ months for 30% off
+* Come with a referral: 
+	* Complete a testing session at the GWU Exercise [Laboratory] (https://publichealth.gwu.edu/departments/exercise-and-nutrition-sciences/metabolism-and-exercise-testing-met-laboratory) for 25% off
 
 ## How to get started
 
-* Schedule a 30 minute New Client meeting using my Calendly (link) so you can get to know me and I can learn more about you and your goals.
-* You can also send me an email here (link)
+* Schedule a 30 minute New Client meeting using my [Calendly] (https://calendly.com/nick4man) so you can get to know me and I can learn more about you and your goals.
+* You can also send me an email [here] (mailto:nforeman22@gwu.edu) 
  
 
 
