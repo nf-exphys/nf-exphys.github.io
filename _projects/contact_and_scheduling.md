@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact and scheduling
+title: Contact me
 description: Contact me or schedule a meeting 
 img: assets/img/3.jpg
 importance: 4
