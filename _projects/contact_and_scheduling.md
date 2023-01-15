@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact me
-description: Contact me or schedule a meeting 
+description: 
 img: assets/img/3.jpg
 importance: 4
 category: coaching

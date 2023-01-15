@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consults
-description: Learn more about my one-off consults for your smaller training questions.
+description: For smaller training questions
 img: assets/img/3.jpg
 importance: 2
 category: coaching

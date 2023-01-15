@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ongoing Coaching
-description: Learn more about my ongoing coaching services
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: coaching
@@ -9,9 +9,9 @@ category: coaching
 
 I currently have several openings for ongoing coaching. Spaces are somewhat limited to ensure you can still receive quality coaching. 
 
-Read more about the coaching plans below or contact me (link) with any questions.
+Read more about the coaching plans below or [contact me](https://www.nickforeman.com/projects/contact_and_scheduling/) with any questions.
 
-Have a burning question or looking for advice on smaller issue? I also offer one-off meetings here (link).
+Have a burning question or looking for advice on smaller issue? I also offer one-off meetings [here](https://www.nickforeman.com/projects/consults/).
 
 ## Basic Plan ($75/month)
 
@@ -46,12 +46,12 @@ Have a burning question or looking for advice on smaller issue? I also offer one
 	* Two months for 20% off
 	* 3+ months for 30% off
 * Come with a referral: 
-	* Complete a testing session at the GWU Exercise [Laboratory] (https://publichealth.gwu.edu/departments/exercise-and-nutrition-sciences/metabolism-and-exercise-testing-met-laboratory) for 25% off
+	* Complete a testing session at the GWU Exercise [Laboratory](https://publichealth.gwu.edu/departments/exercise-and-nutrition-sciences/metabolism-and-exercise-testing-met-laboratory) for 25% off
 
 ## How to get started
 
-* Schedule a 30 minute New Client meeting using my [Calendly] (https://calendly.com/nick4man) so you can get to know me and I can learn more about you and your goals.
-* You can also send me an email [here] (mailto:nforeman22@gwu.edu) 
+* Schedule a 30 minute New Client meeting using my [Calendly](https://calendly.com/nick4man) so you can get to know me and I can learn more about you and your goals.
+* You can also send me an email [here](mailto:nforeman22@gwu.edu) 
  
 
 
