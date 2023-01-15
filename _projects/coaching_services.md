@@ -7,9 +7,9 @@ importance: 1
 category: coaching
 ---
 
-I currently have several openings for ongoing coaching. Spaces are somewhat limited to ensure you can still receive quality coaching. 
+I currently have several openings for ongoing coaching. Limited spots available to ensure high-quality guidance.
 
-Read more about the coaching plans below or [contact me](https://www.nickforeman.com/projects/contact_and_scheduling/) with any questions.
+Learn more about the coaching plans or [contact me](https://www.nickforeman.com/projects/contact_and_scheduling/) to get started!
 
 Have a burning question or looking for advice on smaller issue? I also offer one-off meetings [here](https://www.nickforeman.com/projects/consults/).
 
