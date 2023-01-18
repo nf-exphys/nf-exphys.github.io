@@ -14,9 +14,9 @@ In these consults, I pull from my experiences as a runner, cross country and tra
 Examples of previous consults: 
 * Creatine supplementation for an obstacle course racer
 * Developing a weekly training plan for a working Masters athlete juggling obstacle course and trail races
-* Extending a high school track season for to compete in a national age-group race
+* Extending the taper after a high school track season to compete in a national age-group race
 
-You can schedule a consult [here] (calendly.com/nick4man). Rates are $40 for half an hour or $70 for an hour. 
+You can schedule a consult [here](calendly.com/nick4man). Rates are $40 for half an hour or $70 for an hour. 
 
-If you're a business looking for a consultant, please reach out via [email] (mailto:nforeman22@gwu.edu). 
+If you're a business looking for a consultant, please reach out via [email](mailto:nforeman22@gwu.edu). 
 
