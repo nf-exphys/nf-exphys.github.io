@@ -51,7 +51,7 @@ Have a burning question or looking for advice on smaller issue? I also offer one
 ## How to get started
 
 * Schedule a 30 minute New Client meeting using my [Calendly](https://calendly.com/nick4man) so you can get to know me and I can learn more about you and your goals.
-* You can also send me an email [here](mailto:nforeman22@gwu.edu) 
+* You can also send me an [email](mailto:nforeman22@gwu.edu). 
  
 
 
