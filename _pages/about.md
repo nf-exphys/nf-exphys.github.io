@@ -15,8 +15,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Welcome! I’m Nick Foreman, a PhD student at [George Washington University](https://www.gwu.edu) in Washington, DC. My research interests center around understanding how exercise can mitigate or prevent chronic diseases. Current studies include research on exercise interventions for cholesterol and glucose metabolism.
+Welcome! I’m Nick Foreman, a PhD student at [George Washington University](https://www.gwu.edu) in Washington, DC. My research interests center around metabolism and obesity, with a focus on the use of meal challenges to detect and understand underlying metabolic function. I also contribute to an ongoing study on exercise intensity and HDL function, as well as prediction of visceral adipose tissue volume from cardiometabolic data. 
 
-Prior to moving to DC, I spent most of my life in Minnesota. I have a Masters degree in Kinesiology from the University of Minnesota Twin Cities. There, my research focused on endurance performance and exercise testing. My thesis examined the effect of exercise domains on heart rate variability (HRV) and endurance performance.
+I have a Masters degree in Kinesiology from the University of Minnesota Twin Cities, where my research focused on endurance performance and exercise testing. My thesis examined the effect of exercise intensity on heart rate variability (HRV) and endurance performance. I also contributed to reviews on HRV in athletes and signaling pathways in sarcopenia.  
 
-Outside of academia, I love to run! I train with the NOVA running club in Northern Virginia, focusing mostly on 5K/10K races. I also offer coaching and consulting services through my business, [Ex Phys Coaching](coaching/). I live in Washington, DC with my partner Emily and our two gray cats.
+Outside of research, I love to run! I train with the NOVA running club in Northern Virginia, focusing mostly on 5K/10K races. I also offer coaching and consulting services through [Ex Phys Coaching](coaching/). I live in Washington, DC with my partner Emily and our two gray cats.
