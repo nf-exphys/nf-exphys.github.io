@@ -19,4 +19,4 @@ Welcome! I’m Nick Foreman, a PhD student at [George Washington University](htt
 
 I have a Masters degree in Kinesiology from the University of Minnesota Twin Cities, where my research focused on endurance performance and exercise testing. My thesis examined the effect of exercise intensity on heart rate variability (HRV) and endurance performance. I also contributed to reviews on HRV in athletes and signaling pathways in sarcopenia.  
 
-Outside of research, I love to run! I train with the NOVA running club in Northern Virginia, focusing mostly on 5K/10K races. I also offer coaching and consulting services through [Ex Phys Coaching](coaching/). I live in Washington, DC with my partner Emily and our two gray cats.
+Outside of research, I love to run! I train with the NOVA running club in Northern Virginia, focusing mostly on 5K/10K races. I live in Washington, DC with my partner Emily and our two gray cats.
