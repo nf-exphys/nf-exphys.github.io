@@ -3,7 +3,7 @@ layout: page
 title: Coaching
 permalink: /coaching/
 description: I offer both one-off coaching consults as well as ongoing coaching services. Most of my experience is with runners, but I'm open to working with any number of endurance sports, including triathlon and obstacle course racing. Use the links below to learn more about my coaching background, philsophy, and services. 
-nav: true
+nav: false
 nav_order: 5
 display_categories: [coaching]
 horizontal: true
