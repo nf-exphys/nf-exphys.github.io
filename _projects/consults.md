@@ -16,7 +16,5 @@ Examples of previous consults:
 * Developing a weekly training plan for a working Masters athlete juggling obstacle course and trail races
 * Extending the taper after a high school track season to compete in a national age-group race
 
-You can schedule a consult [here](calendly.com/nick4man). Rates are $40 for half an hour or $70 for an hour. 
-
-If you're a business looking for a consultant, please reach out via [email](mailto:nforeman22@gwu.edu). 
+Please reach out via [email](mailto:nforeman22@gwu.edu). Rates are $40 for half an hour or $70 for an hour.
 
