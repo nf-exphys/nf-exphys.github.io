@@ -9,10 +9,6 @@ profile:
   image: headshot_gwu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ph.D. Candidate in Exercise Physiology and Applied Nutrition</p>
-    <p>Department of Exercise and Nutrition Sciences</p>
-    <p>Milken Institute School of Public Health</p>
-    <p>Washington, DC</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
