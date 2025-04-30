@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A description of my research projects and my contributions to each of them.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [ongoing, completed]
 horizontal: false
 ---
 

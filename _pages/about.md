@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: Ph.D. candidate and human physiologist
 
