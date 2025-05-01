@@ -450,7 +450,7 @@ ninja.data = [{
         title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://inspirehep.net/authors/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -471,7 +471,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
