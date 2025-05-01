@@ -7,7 +7,7 @@ first_name: Nick
 middle_name: 
 last_name: Foreman
 contact_note: >
-  #Could add note here
+  Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -290,8 +290,8 @@ scholar:
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
-  altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
-  dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
+  altmetric: false # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
+  dimensions: false # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: false # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
