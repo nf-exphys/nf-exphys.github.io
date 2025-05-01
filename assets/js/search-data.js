@@ -393,13 +393,13 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-protective-effect-of-exercise-on-acute-high-fat-overfeeding",
-          title: 'Protective effect of exercise on acute high-fat overfeeding',
+          section: "News",},{id: "projects-exercise-and-high-fat-overfeeding",
+          title: 'Exercise and High-fat Overfeeding',
           description: "An ongoing research study",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-effect-of-meal-size-and-timing-on-postprandial-outcomes",
-          title: 'Effect of meal size and timing on postprandial outcomes',
+            },},{id: "projects-meal-size-timing-and-postprandial-outcomes",
+          title: 'Meal size, timing, and postprandial outcomes',
           description: "An ongoing research study",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
@@ -408,9 +408,9 @@ ninja.data = [{
           description: "Ongoing secondary data analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-artificial-sweeteners-in-pregnancy",
+          title: 'Artificial sweeteners in pregnancy',
+          description: "An R01 clinical trial",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-body-composition-and-metabolic-flexibility",
