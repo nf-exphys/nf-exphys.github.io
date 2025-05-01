@@ -453,11 +453,11 @@ ninja.data = [{
           window.open("https://inspirehep.net/authors/", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-rss_icon',
+        title: 'Rss_icon',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("", "_blank");
         },
       },{
         id: 'social-scholar',
