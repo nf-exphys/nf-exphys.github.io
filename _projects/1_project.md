@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Protective effect of exercise on acute high-fat overfeeding
+title: Exercise and High-fat Overfeeding
 description: An ongoing research study
 img: assets/img/hfd_pic.jpg
 importance: 1

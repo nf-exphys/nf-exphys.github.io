@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Effect of meal size and timing on postprandial outcomes
+title: Meal size, timing, and postprandial outcomes
 description: An ongoing research study
 img: assets/img/chrono_clipart.jpg
 importance: 2
