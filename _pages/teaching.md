@@ -39,7 +39,7 @@ Human Physiology Lab
 </ul>
 
 <b> Awards and Training </b>
-<ul> 
-<li> Nominated for and completed [UNIV 0251](https://gradfellowships.gwu.edu/univ0251-advanced-pedagogy-graduate-lecturers): Advanced Pedagogy for Graduate Lecturers (Spring 2024) </li>
-<li> Nominated for a Writing in the Disciplines Distinguished Graduate Student Teaching [Award](https://facultyaffairs.gwu.edu/writing-disciplines-awards#Distinguished%20Grad%20Student%20Teaching) (Fall 2024) </li> 
+<ul>
+  <li> Nominated for and completed <a href="https://gradfellowships.gwu.edu/univ0251-advanced-pedagogy-graduate-lecturers">UNIV 0251: Advanced Pedagogy for Graduate Lecturers</a> (Spring 2024) </li>
+  <li> Nominated for a Writing in the Disciplines Distinguished Graduate Student Teaching <a href="https://facultyaffairs.gwu.edu/writing-disciplines-awards#Distinguished%20Grad%20Student%20Teaching">Award</a> (Fall 2024) </li>
 </ul>
