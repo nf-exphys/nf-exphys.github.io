@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Body Composition and Metabolic Flexibility
-description: A study of the effect of body composition on postprandial metabolic flexibility.
+description: My first study as a PhD student
 img: assets/img/metflex_rer.jpg
 importance: 3
 category: completed
