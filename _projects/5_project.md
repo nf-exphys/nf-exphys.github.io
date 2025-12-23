@@ -9,7 +9,7 @@ category: completed
 <b> What did we do? </b>
 The ability to correctly adapt to incoming macronutrients is known as metabolic flexibility. Because of how often people eat during the day, metabolic flexibility is thought to be a potential marker for future declines in cardiometabolic health. While previous studies have found blunted metabolic flexibility in people with obesity, no studies had quantified adiposity and directly analyzed its effect on metabolic flexibility. In our study, we used indirect calorimetry during fasting and at key postprandial timepoints to assess metabolic flexibility in otherwise healthy young adults (n=27) with a DXA scan to measure body composition. Surprisingly, we found that young adults with higher percent body fat (i.e., worse body composition) had greater metabolic flexibility. Because these young adults also had greater postprandial blood glucose, we hypothesize the increased metabolic flexibility is a compensatory response to the higher blood glucose levels. 
 
-You can find our preprint for this study [here](https://www.biorxiv.org/content/10.1101/2024.08.23.609405v1).
+This study was published in *American Journal of Physiology - Endocrinology and Metabolism* and can be found [here](https://journals.physiology.org/doi/full/10.1152/ajpendo.00235.2025).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
