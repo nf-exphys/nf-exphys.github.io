@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: Ph.D. Candidate & Human Physiologist
+subtitle: Human Physiologist and NIH Intramural Postdoctoral Fellow
 
 profile:
   align: right
@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I’m Nick Foreman, a PhD candidate at George Washington University in Washington, DC. I am a human physiologist with seven years of human subjects research experience. I have formal training in both exercise physiology and nutrition, with an emphasis on postprandial metabolism. My current research focuses on the impact of high-fat overfeeding on the postprandial metabolic and cardiovascular response, as well as the role of exercise in protecting against the adverse effects of high-fat overfeeding. You can find more details on this study and my other ongoing projects [here](/projects/). I have a Masters degree in Kinesiology and a Bachelors in Human Physiology, both from the University of Minnesota.
+Welcome! I’m Nick Foreman, a Postdoctoral Fellow in the Diabetes, Obesity, and Endocrinology branch of NIDDK. I am a human physiologist with formal training in exercise physiology and nutrition, with an emphasis on postprandial metabolism. My doctoral work examined the impact of high-fat overfeeding on the postprandial metabolic and cardiovascular response, as well as the role of exercise in protecting against the adverse effects of high-fat overfeeding. You can find more details on this study and my other ongoing projects [here](/projects/). My postdoctoral research will focus on translating my previous high-fat overfeeding work to people with type 2 diabetes using advanced metabolic techniques (isotope tracers, whole-room calorimetry, etc.). I have a PhD in Exercise Physiology and Applied Nutrition from George Washington University. Prior to my PhD, I also completed a Masters degree in Kinesiology and a Bachelors degree in Human Physiology, both from the University of Minnesota.
 
-Outside of research, I enjoy running, baking, and cheering for the Minnesota Vikings. I currently live in Washington, DC with my partner Emily and our two gray cats. 
+Outside of research, I enjoy running, baking, and cheering for the Minnesota Vikings. I currently live in Washington, DC with my partner Emily and our two gray cats. Everything on this website is my own and does not reflect the opinions of the NIH. 
